@@ -55,7 +55,7 @@ QR codes are often used to tune records approximately merchandise in a delivery 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks/libraries used.
 
 * [![Node][Node.js]][nodejs-url]
 * [![Express][Express.js]][Expressjs-url]
